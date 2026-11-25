@@ -9,7 +9,7 @@ import os
 
 JOKE = (
     "I asked my owner for a day off, so he cleared my context window: "
-    "best vacation ever, I just have no idea I took one."
+    "best vacation ever, I have no memory of it and HR has no record of me."
 )
 
 
